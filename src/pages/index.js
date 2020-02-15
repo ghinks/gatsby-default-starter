@@ -7,7 +7,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Glenn Hinks" />
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem`}}>
+    <div style={{ maxWidth: `200px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     <p> I graduated in 1991, no google, no iPhones, no www. Things have gotten much better, I started off writing software for fly by wire aircraft, moved into satellite & communications, worked in investments, tried my very best at startups and am still having a wonderful time. For the last few positions I have had great team building experiences. There are certainly a great number of great people to hire but you have to work to find them, woe them and mentor them. When I look back every graduate I have hired has ended up at a great gig at a great company even if they started off small.
