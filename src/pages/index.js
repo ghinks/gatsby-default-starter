@@ -12,7 +12,7 @@ const IndexPage = () => (
     </div>
     <p>
       {" "}
-      I graduated in 1991, no google, no iPhones, no www. Things have gotten
+      I graduated in 1991, no google, no iPhones and no www to speak of. Things have gotten
       much better, I started off writing software for fly by wire aircraft,
       moved into satellite & communications, worked in investments, tried my
       very best at startups and am still having a wonderful time.
